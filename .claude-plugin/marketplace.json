@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "claude-code-builder",
-      "source": ".",
+      "source": "/.",
       "description": "Create skills, subagents, hooks, commands, and plugins for Claude Code"
     }
   ]
